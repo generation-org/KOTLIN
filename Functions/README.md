@@ -11,14 +11,12 @@
 
 ```kotlin=
 
-   private static void printNameLength( String name )
-    {
-      //TODO implement this code
+   private fun printNameLength(name: String) {
+        //TODO implement this code
     }
 
-    private static void printNameCharacters( String name )
-    {
-      //TODO implement this code
+    private fun printNameCharacters(name: String) {
+        //TODO implement this code
     }
 
 ```
