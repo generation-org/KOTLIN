@@ -65,7 +65,7 @@ The beginning of the sequence is thus:
 
 *Hint* You can use the following String proprieties:
 
-* string.lenght -> returns the total number of characters of a given String
+* string.length -> returns the total number of characters of a given String
 * string[i] -> returns the char at the i position on the string
 
 
