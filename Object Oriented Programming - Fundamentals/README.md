@@ -46,7 +46,7 @@
 4. Add constructors to your Student class:
 
 * Make the class with at least three different constructors.
-5. Create a Java class for Courses
+5. Create a Kotlin class for Courses
 
 * Your Course class must have, as attributes: courseName, professorName, year.
 * Your class must also contain a collection that lists all students enrolled in them.
