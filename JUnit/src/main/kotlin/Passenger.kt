@@ -17,7 +17,7 @@ class Passenger(val name: String, val id: String) {
         isOnTrip = true
     }
 
-    fun endTrip(fee: Double) {
+    fun endTrip(fee: Int) {
         balance -= fee
         isOnTrip = false
     }
